@@ -1,4 +1,4 @@
-# Supply Chain Dashboard using powr bi
+# Supply Chain Dashboard using PowerBI
 ## Overview
 This project presents a comprehensive supply chain management solution developed using Power BI.Leveraging real-world data, the dashboard offers deep insights into various facets of supply chain operations, including inventory management, sales analysis, and logistics optimization.
 ## Features of the dataset
@@ -51,6 +51,7 @@ This project presents a comprehensive supply chain management solution developed
 6. "Route A" emerges as the preferred transportation route, facilitating the transit of over 43% of the products.
 7. The overall satisfaction rate averages at 2.28, falling short of our target rate of 3.00.
 8. The average lead time for delivery stands at 14.77 days.
+
 
 
 
